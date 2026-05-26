@@ -1,16 +1,13 @@
-## Hi there 👋
+# Halo, Saya Raditya Andika! 👋
 
-<!--
-**radityaandhika356-cmd/radityaandhika356-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mahasiswa Teknik Informatika yang antusias dengan pengembangan web dan teknologi. Senang belajar hal baru dan membangun solusi berbasis kode.
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
+- **Web Development:** HTML, CSS, JavaScript
+- **Tools:** Git, GitHub, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 Statistik GitHub
+![Statistik](https://github-readme-stats.vercel.app/api?username=radityaandhika356-cmd&show_icons=true&theme=radical)
+
+---
+*Terima kasih sudah mampir ke profil saya!*

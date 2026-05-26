@@ -11,7 +11,7 @@ Mahasiswa Teknik Informatika yang antusias dengan pengembangan web dan teknologi
 ---
 
 ### 📊 Statistik GitHub
-![Statistik](https://github-readme-stats.vercel.app/api?username=radityaandhika356-cmd&show_icons=true&theme=radical&hide_border=true&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=radityaandhika356-cmd&show_icons=true&theme=radical&hide_border=true&count_private=true" />
 
 ---
 
